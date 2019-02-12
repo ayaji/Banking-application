@@ -1,3 +1,5 @@
+# Developed an application to perform online banking operations which had three user modes (customer, banker and admin) with specific accessibility. 
+# Performed analytics, accessed Twitter API and Google charts API to show advertisements and bar charts on customer transactions.  
 ______________________________________________________________________________
 
 BANKING SYSTEM (Chicago Bank) User Document:
